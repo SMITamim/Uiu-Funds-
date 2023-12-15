@@ -1,0 +1,43 @@
+/* styles.css */
+
+.navbar {
+    background: linear-gradient(to bottom right, #3498db, #64b2df); /* Adjust colors as needed */
+  }
+  
+  
+.navbar-brand {
+    display: flex;
+    flex-direction: column;
+}
+.navbar-brand span {
+    font-weight: bold;
+    color: #808080; /* Gray color */
+}  
+
+.navbar-nav .nav-link {
+    color: #000000; /* Optional: Change text color of the links */
+  }
+  
+.navbar-toggler-icon {
+    background-color: #000000; /* Optional: Change color of the navbar toggle icon */
+  }
+.center-text {
+    text-align: center;
+    color: #023456; /* Blue color */
+}
+.card-round {
+    border-radius: 15px; /* Adjust the border-radius for rounded edges */
+    overflow: hidden; /* Ensure the rounded corners are visible */
+    background: linear-gradient(to bottom, #3498db, #64b2df); /* Adjust colors as needed */
+    
+    text-align: center;
+    padding: 20px;
+    height: 100%; /* Ensure the gradient fills the entire height */
+}
+
+
+.round-btn {
+    border-radius: 50px; /* Adjust the border-radius for round edges */
+    background-color: #023456; /* Background color */
+    
+} 
