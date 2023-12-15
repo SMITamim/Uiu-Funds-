@@ -20,6 +20,7 @@
     }
     include('template/navbar.php');
     include_once('../model/authUser.php');
+    include ('../model/loanModel.php');
     ?>
     <div class='row'>
         <div class='col-md-4'>
