@@ -34,10 +34,13 @@
                         <a class='nav-link text-white' href='dashboard.php'>Home</a>
                     </li>
                     <li class='nav-item'>
-                        <a class='nav-link text-white' href='updateProfile.php'>View Profile</a>
+                        <a class='nav-link text-white' href='updateProfile.php'>Update Profile</a>
                     </li>
                     <li class='nav-item'>
                         <a class='nav-link text-white' href='viewPost.php'>My Post</a>
+                    </li>
+                     <li class='nav-item'>
+                        <a class='nav-link text-white' href='donationView.php'>Cloud Sourcing Amount</a>
                     </li>
                     <li class='nav-item'>
                         <a class='nav-link text-white' href='../controller/logoutController.php'>Logout</a>

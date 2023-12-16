@@ -20,7 +20,11 @@
     }
     include('template/navbar.php');
     include_once('../model/authUser.php');
+<<<<<<< HEAD
     include ('../model/loanModel.php');
+=======
+    include_once('../model/loanModel.php');
+>>>>>>> 42db8ce85289dc7cb0c09c421b24b9e02e4fb09f
     ?>
     <div class='row'>
         <div class='col-md-4'>
